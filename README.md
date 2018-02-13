@@ -1,2 +1,6 @@
 # hello-world
-Another repository 
+Another repository
+
+Hello Earthlings!
+
+That is all! Proceed!
